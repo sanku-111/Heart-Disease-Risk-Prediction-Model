@@ -287,9 +287,9 @@ Some possible improvements include:
 
 ## 👨‍💻 Author
 
-**Sandeep Kumar**
+**Sanket**
 
-GitHub: [@sandeepkr10229](https://github.com/sandeepkr10229)
+GitHub: [@sanku-111](https://github.com/sanku-111)
 
 ---
 
